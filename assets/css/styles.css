@@ -1339,6 +1339,9 @@ body {
         font-size: 10px;
         line-height: 23px;
         margin-right: 10px; }
+      .mh-work .mh-experience-deatils .mh-work-item .mh-experience-img {
+      display: flex; 
+      align-items: center}
 
 /*
     ==============
